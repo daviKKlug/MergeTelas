@@ -1,5 +1,15 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\davik\\OneDrive\\Desktop\\Nova pasta (4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}|Origem\\Origem.csproj|c:\\users\\davik\\onedrive\\desktop\\nova pasta (4)\\origem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}|Origem\\Origem.csproj|solutionrelative:origem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}|Origem\\Origem.csproj|c:\\users\\davik\\onedrive\\desktop\\nova pasta (4)\\origem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
   "WorkspaceRootPath": "C:\\Users\\davik\\OneDrive\\Desktop\\Nova pasta (3)\\",
   "Documents": [
     {
@@ -8,6 +18,7 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}|Origem\\Origem.csproj|c:\\users\\davik\\onedrive\\desktop\\nova pasta (3)\\origem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> 9fa12eb67f50610cecd991bb3e5f6ee4f945797e
       "RelativeMoniker": "D:0:0:{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}|Origem\\Origem.csproj|solutionrelative:origem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,6 +34,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\davik\\OneDrive\\Desktop\\Nova pasta (4)\\Origem\\Form2.cs",
+              "RelativeDocumentMoniker": "Origem\\Form2.cs",
+              "ToolTip": "C:\\Users\\davik\\OneDrive\\Desktop\\Nova pasta (4)\\Origem\\Form2.cs [Design]",
+              "RelativeToolTip": "Origem\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:30:14.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\davik\\OneDrive\\Desktop\\Nova pasta (4)\\Origem\\Form1.cs",
+              "RelativeDocumentMoniker": "Origem\\Form1.cs",
+              "ToolTip": "C:\\Users\\davik\\OneDrive\\Desktop\\Nova pasta (4)\\Origem\\Form1.cs [Design]",
+=======
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\davik\\OneDrive\\Desktop\\Nova pasta (3)\\Origem\\Form1.cs",
               "RelativeDocumentMoniker": "Origem\\Form1.cs",
@@ -40,6 +69,7 @@
               "DocumentMoniker": "C:\\Users\\davik\\OneDrive\\Desktop\\Nova pasta (3)\\Origem\\Form1.cs",
               "RelativeDocumentMoniker": "Origem\\Form1.cs",
               "ToolTip": "C:\\Users\\davik\\OneDrive\\Desktop\\Nova pasta (3)\\Origem\\Form1.cs [Design]",
+>>>>>>> 9fa12eb67f50610cecd991bb3e5f6ee4f945797e
               "RelativeToolTip": "Origem\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T17:20:06.288Z",
