@@ -16,5 +16,10 @@ namespace Origem
         {
             InitializeComponent();
         }
+
+        private void btn1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ok");
+        }
     }
 }
