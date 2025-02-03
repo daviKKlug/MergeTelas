@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Origem", "Origem\Origem.csproj", "{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DABD4B5-10A5-46ED-BA7F-37C877EA5A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C2631D-8CED-4E10-B13A-0B126F7D7D6C}
+	EndGlobalSection
+EndGlobal
